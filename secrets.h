@@ -1,0 +1,1 @@
+int isValidPassword(char *input);
