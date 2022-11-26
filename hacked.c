@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <secrets.h>
+#include "secrets.h"
 
 void debug() 
 {
