@@ -1,5 +1,6 @@
 #include <stdio.h>
-#include <secrets.h>
+#include <stdlib.h>
+#include "secrets.h"
 
 void debug() 
 {
